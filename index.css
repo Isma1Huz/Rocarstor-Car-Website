@@ -18,7 +18,7 @@ body {
 
 
 
-/* .name > h1 {
+.name > h1 {
     font-weight: bolder;
 }
 nav {
@@ -73,7 +73,7 @@ nav {
     color: #eb4c02;
     background-color: white;
     cursor: pointer;
-} */
+}
 
 
 
