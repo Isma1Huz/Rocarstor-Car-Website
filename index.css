@@ -479,7 +479,7 @@ footer {
         left: 2rem;
         top: 3rem;
     }
-    /* footer {
+    footer {
         position: relative;
         flex-wrap: wrap;
         z-index: 1;
@@ -497,7 +497,7 @@ footer {
         grid-template-rows:min-content;
         height: 10rem;
         width: 60%;
-    } */
+    }
 
 }
 
