@@ -377,7 +377,7 @@ footer {
     width: 20%;
 }
 
-/* .item > input {
+.item > input {
     color: black;
     border: 2px solid #eb4c02;
     width: 80%;
@@ -390,7 +390,7 @@ footer {
     width: 50%;
     height: 2rem;
     padding: 0.2rem;
-} */
+}
 
 
 
@@ -399,7 +399,7 @@ footer {
 /* Responsiveness  */
 
 
-/* @media only screen and (max-width:1024px){
+@media only screen and (max-width:1024px){
     nav {
         display: flex;
         flex-wrap: wrap;
@@ -499,7 +499,7 @@ footer {
         width: 60%;
     }
 
-} */
+}
 
 
 
