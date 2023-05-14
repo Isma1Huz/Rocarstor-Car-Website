@@ -1,6 +1,6 @@
 # Rocarstor-Car-Website
 ---
-- This is a Car dealer website that showcase the product of the Rocarstor Car dealer Store. The main aim of the project was to
+- This is a Car dealer website that showcase the product of the Rocarstor Car dealer Store. The main aim of the project was to develop
 - the design given. This project is to put into practice my skills of Html and Css for what I have learnt at Moringa School for two weeks.
 # TECHNOLOGIES USED
 - HTML
