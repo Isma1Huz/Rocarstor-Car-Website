@@ -12,6 +12,8 @@ ________________________________________________________________________________
 
 # Preview
 
+![Screenshot from 2023-05-15 10-29-22](https://github.com/Isma1Huz/Rocarstor-Car-Website/assets/132744360/f1ae4828-625e-45a5-b316-bba30486c297)
+![Screenshot from 2023-05-15 10-29-27](https://github.com/Isma1Huz/Rocarstor-Car-Website/assets/132744360/6952d1d2-9fab-4321-9634-ffea8b99c9ff)
 
 # Set Up Instructions
  - Click the "Code" button on the project repo
